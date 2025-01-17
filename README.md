@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-## Overview
-
 ### Screenshot
 
 ![](./images/screenshot.png)
@@ -22,8 +20,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Live Site URL: https://qr-code-component-main-seven-sand.vercel.app/
-
-## My process
 
 ### Built with
 
